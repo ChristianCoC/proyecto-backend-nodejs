@@ -1,0 +1,14 @@
+{
+  "name": "proyecto-nodejs",
+  "version": "1.0.0",
+  "description": "Proyecto del curso Backend NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Christian Siles",
+  "license": "ISC",
+  "type": "module"
+}
